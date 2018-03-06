@@ -1,0 +1,18 @@
+.headercontainer {
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+.downloadnow {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+  text-align: center;
+}
