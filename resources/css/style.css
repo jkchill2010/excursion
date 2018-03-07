@@ -17,3 +17,7 @@ body {
   text-decoration: underline;
   text-align: center;
 }
+
+.camping_img {
+  min-width: 100%;
+}
