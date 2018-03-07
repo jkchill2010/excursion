@@ -1,23 +1,28 @@
-.header {
-  font-family: Verdana;
-  font-weight: bold;
+.headercontainer h1 {
+  font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 
 body {
   background-color: black;
   text-align: center;
+  font-family: Verdana;
 }
 
 .downloadnow {
   color: aquamarine;
   font-size: 16px;
   text-decoration: underline;
-  text-align: center;
 }
 
-.camping_img {
-  min-width: 100%;
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
 }
